@@ -1,0 +1,53 @@
+body{
+    height: 800px;
+    width: 100vw;
+    background-image: url("https://thumbs.dreamstime.com/z/fantasy-landscape-large-full-moon-starry-night-sky-pink-cherry-blossom-trees-fantasy-landscape-348513298.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
+img{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top:1%;
+    border-radius: 50%;
+    left: 42%;
+    border: 2px solid red;
+}
+.container
+{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    top:10%;
+    left:30%;
+    border: 4px solid rgb(251, 247, 247);
+    border-radius:4em;
+    background:linear-gradient(45deg,rgb(222, 46, 249),rgb(60, 217, 228),rgb(239, 83, 187));
+    color:rgb(230, 14, 14);
+    
+
+
+}
+
+header
+{
+    color: rgb(198, 47, 253);
+    text-align: center;
+    font-size:10ch ;
+    font-weight: 600;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+li{
+    border: 2px solid rgb(183, 26, 120);
+    width: 350px;
+    height:60px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 1em;
+    text-align: center;
+    background-color: rgb(69, 236, 224);
+}
